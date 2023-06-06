@@ -1,0 +1,15 @@
+C:\Users\User\OneDrive\Рабочий стол\NewHomeWork\Learning\Task\LearningNineteen\Twenty\bin\Debug\net6.0\Twenty.exe
+C:\Users\User\OneDrive\Рабочий стол\NewHomeWork\Learning\Task\LearningNineteen\Twenty\bin\Debug\net6.0\Twenty.deps.json
+C:\Users\User\OneDrive\Рабочий стол\NewHomeWork\Learning\Task\LearningNineteen\Twenty\bin\Debug\net6.0\Twenty.runtimeconfig.json
+C:\Users\User\OneDrive\Рабочий стол\NewHomeWork\Learning\Task\LearningNineteen\Twenty\bin\Debug\net6.0\Twenty.dll
+C:\Users\User\OneDrive\Рабочий стол\NewHomeWork\Learning\Task\LearningNineteen\Twenty\bin\Debug\net6.0\Twenty.pdb
+C:\Users\User\OneDrive\Рабочий стол\NewHomeWork\Learning\Task\LearningNineteen\Twenty\obj\Debug\net6.0\Twenty.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Рабочий стол\NewHomeWork\Learning\Task\LearningNineteen\Twenty\obj\Debug\net6.0\Twenty.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Рабочий стол\NewHomeWork\Learning\Task\LearningNineteen\Twenty\obj\Debug\net6.0\Twenty.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Рабочий стол\NewHomeWork\Learning\Task\LearningNineteen\Twenty\obj\Debug\net6.0\Twenty.AssemblyInfo.cs
+C:\Users\User\OneDrive\Рабочий стол\NewHomeWork\Learning\Task\LearningNineteen\Twenty\obj\Debug\net6.0\Twenty.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Рабочий стол\NewHomeWork\Learning\Task\LearningNineteen\Twenty\obj\Debug\net6.0\Twenty.dll
+C:\Users\User\OneDrive\Рабочий стол\NewHomeWork\Learning\Task\LearningNineteen\Twenty\obj\Debug\net6.0\refint\Twenty.dll
+C:\Users\User\OneDrive\Рабочий стол\NewHomeWork\Learning\Task\LearningNineteen\Twenty\obj\Debug\net6.0\Twenty.pdb
+C:\Users\User\OneDrive\Рабочий стол\NewHomeWork\Learning\Task\LearningNineteen\Twenty\obj\Debug\net6.0\Twenty.genruntimeconfig.cache
+C:\Users\User\OneDrive\Рабочий стол\NewHomeWork\Learning\Task\LearningNineteen\Twenty\obj\Debug\net6.0\ref\Twenty.dll
