@@ -1,0 +1,15 @@
+C:\Users\User\OneDrive\Рабочий стол\NewHomeWork\Learning\Task\LearningNineteen\TwentyTwo\bin\Debug\net6.0\TwentyTwo.exe
+C:\Users\User\OneDrive\Рабочий стол\NewHomeWork\Learning\Task\LearningNineteen\TwentyTwo\bin\Debug\net6.0\TwentyTwo.deps.json
+C:\Users\User\OneDrive\Рабочий стол\NewHomeWork\Learning\Task\LearningNineteen\TwentyTwo\bin\Debug\net6.0\TwentyTwo.runtimeconfig.json
+C:\Users\User\OneDrive\Рабочий стол\NewHomeWork\Learning\Task\LearningNineteen\TwentyTwo\bin\Debug\net6.0\TwentyTwo.dll
+C:\Users\User\OneDrive\Рабочий стол\NewHomeWork\Learning\Task\LearningNineteen\TwentyTwo\bin\Debug\net6.0\TwentyTwo.pdb
+C:\Users\User\OneDrive\Рабочий стол\NewHomeWork\Learning\Task\LearningNineteen\TwentyTwo\obj\Debug\net6.0\TwentyTwo.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Рабочий стол\NewHomeWork\Learning\Task\LearningNineteen\TwentyTwo\obj\Debug\net6.0\TwentyTwo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Рабочий стол\NewHomeWork\Learning\Task\LearningNineteen\TwentyTwo\obj\Debug\net6.0\TwentyTwo.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Рабочий стол\NewHomeWork\Learning\Task\LearningNineteen\TwentyTwo\obj\Debug\net6.0\TwentyTwo.AssemblyInfo.cs
+C:\Users\User\OneDrive\Рабочий стол\NewHomeWork\Learning\Task\LearningNineteen\TwentyTwo\obj\Debug\net6.0\TwentyTwo.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Рабочий стол\NewHomeWork\Learning\Task\LearningNineteen\TwentyTwo\obj\Debug\net6.0\TwentyTwo.dll
+C:\Users\User\OneDrive\Рабочий стол\NewHomeWork\Learning\Task\LearningNineteen\TwentyTwo\obj\Debug\net6.0\refint\TwentyTwo.dll
+C:\Users\User\OneDrive\Рабочий стол\NewHomeWork\Learning\Task\LearningNineteen\TwentyTwo\obj\Debug\net6.0\TwentyTwo.pdb
+C:\Users\User\OneDrive\Рабочий стол\NewHomeWork\Learning\Task\LearningNineteen\TwentyTwo\obj\Debug\net6.0\TwentyTwo.genruntimeconfig.cache
+C:\Users\User\OneDrive\Рабочий стол\NewHomeWork\Learning\Task\LearningNineteen\TwentyTwo\obj\Debug\net6.0\ref\TwentyTwo.dll
